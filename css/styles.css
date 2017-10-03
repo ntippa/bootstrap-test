@@ -33,13 +33,17 @@
 }
 
 .reserve{
-  background-color:#FFB300
+  background-color:#FFB300;
+}
+
+.reserve-button{
+  padding:10px;
 }
 
 .tab-content{
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  padding: 10px
+  padding: 10px;
 
 }
